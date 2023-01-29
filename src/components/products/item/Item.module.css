@@ -1,0 +1,9 @@
+.itemContainer{
+  display: flex;
+  justify-content: space-between;
+  cursor: hand;
+}
+
+.itemContainer:hover {
+  background-color: rgba(0, 0, 255, 0.164);
+}
